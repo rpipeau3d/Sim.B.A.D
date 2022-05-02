@@ -1,0 +1,5 @@
+This new version 0.2 of the SIMBAD pre-processing program includes the folowing corrections and modifications:
+* Definition of minimum threshold values for added masses and radiation dampings
+* Better determination of the simulated wave spectrum according to the Welch's method
+* Correction of a bug in the determination of the wave spectrum with the Fast method (spectrum shifted to the left resulting in a higher peak period for the simulated spectrum)
+* Calculation of significant wave height, frequency moments, maximum wave height and peak period (corresponding to the maximum in the wave spectrum) of the simulated wave time series
