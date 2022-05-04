@@ -1,0 +1,2 @@
+WARNING! the PdstripGUI program does not allow a negative value in y for fins or appendages. On the other hand, the PDSTRIP program manages it without problem. In these cases, skip directly to the PDSTRIP program.
+
