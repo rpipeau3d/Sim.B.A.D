@@ -1,0 +1,2 @@
+Type:        Min       Max       Minst.      Maxst.     F1/3       F1/10
+Motion     -17.69     17.544     -18.58     18.575     9.7234     -12.71    
