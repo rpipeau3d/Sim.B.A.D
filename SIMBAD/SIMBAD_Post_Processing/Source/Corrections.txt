@@ -1,0 +1,2 @@
+This new version 0.2 of the SIMBAD post-processing program includes the folowing corrections and modifications:
+* Correction of the calculation of the MPM statistical values
