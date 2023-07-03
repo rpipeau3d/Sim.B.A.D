@@ -1,0 +1,8 @@
+This new version 0.2 of the SIMBAD pre-processing program includes the following corrections and modifications:
+* Definition of minimum threshold values for added masses and radiation dampings
+* Better determination of the simulated wave spectrum according to the Welch's method
+* Correction of a bug in the determination of the wave spectrum with the Fast method (spectrum shifted to the left resulting in a higher peak period for the simulated spectrum)
+* Calculation of significant wave height, frequency moments, maximum wave height and peak period (corresponding to the maximum in the wave spectrum) of the simulated wave time series
+* The matrix of hydrostatic restoring coefficients is expressed for the six degrees of freedom using the following coefficients: C33, C34, C35, C43, C44, C45, C46, C53, C54, C55, C56. The remaining coefficients of the matrix are set to 0.
+* Introduction of viscous roll damping coefficients according to M. Alexandersson simple prediction formula
+* Introduction of a test on the validity of the drift forces calculation, asking for a change in the limit of frequency range
