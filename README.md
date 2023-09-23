@@ -1,3 +1,4 @@
+# Sim.B.A.D. and other hydrodynamic and aerodynamic programs
 # Sim.B.A.D
 A shipmooring program
 
@@ -41,3 +42,20 @@ The results data post-processing enables to provide plots of time series and ana
 * Mooring line and fender loads,
 * Motions, speeds and accelerations at the center of gravity and at other possible points of the ship.
 
+# Ship Motion program:
+A specific program enables the calculation of the motions of a given type of vessel in response to the wave forces acting on the ship, calculated with the PDSTRIP program. A comparison with published data is also provided.
+
+# Wind and current coefficients:
+Some spreadsheets provide wind and current coefficients for different types of ships, such as published in the literature. A specific spreadsheet is dedicated to the Fujiwara method for the estimation of wind load coefficients.
+
+# Forces induced by passing ships:
+A specific spreadsheet is dedicated to the estimation of passing ship induced forces on moored ships for an open jetty and vertical quay.
+
+# Forces induced by wind-assisted propulsion systems:
+A program allows the estimation of forces induced by wind-assisted propulsion systems, namely a rigid wing sail or Flettner rotor.
+
+# Water depth for a channel or canal:
+A specific spreadsheet is dedicated to the estimation of water depth in a channel or canal, according to the ship and bottom related factors (wave response allowance to be determined externally).
+
+# Hydrostatic characteristics:
+A specific spreadsheet provides geometric (lengths, breadth, draft…) and hydrostatic characteristics (metacentric height, KG) for different types of ships.
