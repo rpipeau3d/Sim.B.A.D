@@ -1,0 +1,2 @@
+This new version 0.3 of the SIMBAD post-processing program enables to obtain an animation as well as a video of the results.
+It is based on the VPython environment (see https://vpython.org/)
