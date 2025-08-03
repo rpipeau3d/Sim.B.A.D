@@ -1,0 +1,1 @@
+This new version 0.3 of the SIMBAD pre-processing program includes only a new architecture of the program and small corrections (modification of file FreqDir.txt for animation of results).
